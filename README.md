@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🚀 Coder Profile
 
-<!--
-**PrimalSky0019/PrimalSky0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Status:** Full Stack Development Learner at **VIT-AP**.
 
-Here are some ideas to get you started:
+**Current Focus:** Building end-to-end applications and mastering the core technologies of full stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Language | Primary Use |
+| :--- | :--- |
+| **Java** & **Kotlin** | Backend, Enterprise Systems |
+| **JavaScript** | Web Frontend/Client-Side Logic |
+| **Python** | Scripting, Utilities, Backend Services |
+
+I'm committed to turning ideas into functional, well-architected code. Let's connect and build something awesome!
