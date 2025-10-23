@@ -1,4 +1,4 @@
-### 🚀 Coder Profile
+### 🚀 Ved's Profile
 
 **Status:** Full Stack Development Learner at **VIT-AP**.
 
